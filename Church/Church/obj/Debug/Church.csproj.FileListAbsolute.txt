@@ -101,7 +101,6 @@ C:\Users\vsdiaz\Documents\GitHub\Church\Church\Church\bin\DotNetOpenAuth.OAuth.C
 C:\Users\vsdiaz\Documents\GitHub\Church\Church\Church\bin\DotNetOpenAuth.OAuth.xml
 C:\Users\vsdiaz\Documents\GitHub\Church\Church\Church\bin\DotNetOpenAuth.OpenId.xml
 C:\Users\vsdiaz\Documents\GitHub\Church\Church\Church\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
-C:\Users\vsdiaz\Documents\GitHub\Church\Church\Church\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\vsdiaz\Documents\GitHub\Church\Church\Church\obj\Debug\Church.dll
 C:\Users\vsdiaz\Documents\GitHub\Church\Church\Church\obj\Debug\Church.pdb
 C:\Users\diaz994.VictorDiazJr\Documents\GitHub\Church\Church\Church\bin\Church.dll
@@ -157,3 +156,5 @@ C:\Users\diaz994.VictorDiazJr\Documents\GitHub\Church\Church\Church\bin\DotNetOp
 C:\Users\diaz994.VictorDiazJr\Documents\GitHub\Church\Church\Church\obj\Debug\Church.csprojResolveAssemblyReference.cache
 C:\Users\diaz994.VictorDiazJr\Documents\GitHub\Church\Church\Church\obj\Debug\Church.dll
 C:\Users\diaz994.VictorDiazJr\Documents\GitHub\Church\Church\Church\obj\Debug\Church.pdb
+C:\Users\vsdiaz\Documents\GitHub\Church\Church\Church\bin\Church.dll.config
+C:\Users\vsdiaz\Documents\GitHub\Church\Church\Church\obj\Debug\Church.csprojResolveAssemblyReference.cache

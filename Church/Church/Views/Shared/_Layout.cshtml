@@ -2,18 +2,21 @@
 <html lang="en">
     <head>
         <meta charset="utf-8" />
-        <title>@ViewBag.Title - My ASP.NET MVC Application</title>
-        <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        <title>Soldiers Of The Cross</title>
+        <link href="~/Images/InsigniaNoBackground3.png" rel="shortcut icon" type="image/x-icon" />
         <meta name="viewport" content="width=device-width" />
         @Styles.Render("~/Content/css")
         @Scripts.Render("~/bundles/modernizr")
     </head>
     <body>
-        <header>
-            <div class="content-wrapper">
-                <div class="float-left">
-                    <p class="site-title">@Html.ActionLink("your logo here", "Index", "Home")</p>
-                </div>
+        <header id="header">
+            <div class="container">
+                <h1 class="logo">
+                    <a href="/">
+                        <div class="ui-header__logo">Soldiers of the Cross</div>
+                    </a>
+                    @*<p class="site-title">@Html.ActionLink("your logo here", "Index", "Home")</p>*@
+                </h1>
                 <div class="float-right">
                     <section id="login">
                         @Html.Partial("_LoginPartial")
@@ -37,7 +40,7 @@
         <footer>
             <div class="content-wrapper">
                 <div class="float-left">
-                    <p>&copy; @DateTime.Now.Year - My ASP.NET MVC Application</p>
+                    <p>&copy; @DateTime.Now.Year - Soldiers Of The Cross</p>
                 </div>
             </div>
         </footer>
