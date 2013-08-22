@@ -10,21 +10,21 @@ namespace Church.Controllers
 	{
 		public ActionResult Index()
 		{
-			ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application.";
+			ViewBag.Message = "Soldiers Of The Cross";
 
 			return View();
 		}
 
 		public ActionResult About()
 		{
-			ViewBag.Message = "Your app description page.";
+			ViewBag.Message = "This application will allow each mission to add users and have a better view of their member base.";
 
 			return View();
 		}
 
 		public ActionResult Contact()
 		{
-			ViewBag.Message = "Your contact page.";
+			ViewBag.Message = "Contact us.";
 
 			return View();
 		}

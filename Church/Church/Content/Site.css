@@ -125,15 +125,20 @@ footer {
     height: 100px;
 }
 
-#header {
-    position: relative;
-z-index: 3;
-margin-bottom: 20px;
-border-top: 1px solid #111;
-background-color: #151b1f;
+    #header {
+        position: relative;
+        z-index: 3;
+        margin-bottom: 20px;
+        border-top: 1px solid #111;
+        background-color: #151b1f;
+       }
+
+.logo {
+    background: url('../Images/InsigniaNoBackground3.png') no-repeat center right;
+    display:block;
+    height:58px;
+    width:238px;
 }
-
-
 /* site title
 ----------------------------------------------------------*/
 .site-title {
